@@ -16,7 +16,9 @@
   * Generate Simple App
   * Add Bootswatch
   * Form to add todo
+    - https://getbootstrap.com/docs/4.0/components/forms/
   * Add todo to list when form submitted
+    - Form always attend to submit data to somewhere to prevent this default behaviour we have to add @submit.prevent event handler
   * Show todos in a list on page
   * Click a todo to mark it as done
   * Delete button for todo
